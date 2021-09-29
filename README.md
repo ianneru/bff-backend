@@ -1,1 +1,1 @@
-# bff-backend-pattern
+# BFF made with .Net 5
